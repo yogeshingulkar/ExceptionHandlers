@@ -29,7 +29,7 @@ This Hackathon is designed to enhance your **JavaScript development skills**, wi
 JavaScript (ES6+), Node.js, HTML/CSS, Git & GitHub
 
 ## 🧑‍💻 How to Use This Repository
-1. Clone: git clone https://github.com/your-username/your-repo-name.git  
+1. Clone: git clone https://github.com/yogeshingulkar/ExceptionHandlers.git  
 2. Navigate: cd your-repo-name  
 3. Run JS: node filename.js  
 
