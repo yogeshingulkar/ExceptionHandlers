@@ -34,15 +34,15 @@ JavaScript (ES6+), Node.js, HTML/CSS, Git & GitHub
 3. Run JS: node filename.js  
 
 👥 Team Members (Exception Handlers)
-#Aditya Sadekar
+1. Aditya Sadekar
 
-#Aniket Jagdale
+2. Aniket Jagdale
 
-#Dipak Khedkar
+3. Dipak Khedkar
 
-#Shubham Gawali
+4. Shubham Gawali
 
-#Yogesh Ingulkar
+5. Yogesh Ingulkar
 
 ## 🤝 Contribution
 Fork → New Branch → Commit → Pull Request  
