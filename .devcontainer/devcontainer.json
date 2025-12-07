@@ -1,0 +1,43 @@
+{
+  "name": "JavaScript A22 Hackathon DevContainer",
+
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+
+  "features": {
+    "ghcr.io/devcontainers/features/common-utils:2": {},
+    "ghcr.io/devcontainers/features/git:1": {},
+    "ghcr.io/devcontainers/features/node:1": {
+      "version": "20"
+    }
+  },
+
+  "settings": {
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "editor.formatOnSave": true,
+    "files.autoSave": "afterDelay",
+    "javascript.suggest.autoImports": true
+  },
+
+  "extensions": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "ms-vscode.vscode-typescript-next",
+    "github.copilot",
+    "github.vscode-github-actions"
+  ],
+
+  "postCreateCommand": "npm install",
+
+  "remoteUser": "vscode",
+
+  "forwardPorts": [3000, 5173, 8080],
+
+  "mounts": [
+    "source=/var/run/docker.sock,target=/var/run/docker.sock,type=bind"
+  ],
+
+  "runArgs": [
+    "--init",
+    "--privileged"
+  ]
+}
