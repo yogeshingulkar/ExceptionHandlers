@@ -2,73 +2,42 @@
 **Host:** Prasad Kadam  
 **Batch:** A22 (JavaScript)
 
-Welcome to the official repository for the Hackathon conducted under the guidance of **Prasad Kadam**.  
-This repository contains all project files, modules, and whole frontend website created by the A22 JavaScript Batch (Exception Handler's).
-
----
+Welcome to the official repository for the Hackathon conducted under the guidance of **Prasad Kadam**. This repository contains all project files, modules, and the complete frontend website created by the **A22 JavaScript Batch (Exception Handlers)**.
 
 ## 📘 Project Overview
-This Hackathon is designed to enhance your **JavaScript development**, focusing on:
-
+This Hackathon is designed to enhance your **JavaScript development skills**, with a focus on:
 - Problem-solving  
-- Logical thinking  
+- Logical and analytical thinking  
 - Writing clean and maintainable code  
-- Implementing Project Interface  
-- Teamwork and real-world project structure  
-
-The repository includes multiple modules demonstrating JavaScript concepts and structured code.
-
----
+- Building and implementing project interfaces  
+- Collaboration and real-world project structuring  
 
 ## 🗂️ Repository Structure
-📦 Hackathon-JavaScript-A22
-├── 📁 ExceptionHandlers
-└── 📄 project files
-
----
+📦 Hackathon-JavaScript-A22  
+├── 📁 ExceptionHandlers  
+└── 📄 Project Files (Frontend + Backend)
 
 ## ✨ Features
-- Clean and modular Backend - frontend code  
-- Custom and built-in Website  
-- Beginner-friendly documentation  
-- Reusable logic and examples  
+- Clean, modular **frontend + backend** code  
+- Fully functional **website interface**  
+- Custom and built-in exception handling  
+- Beginner-friendly and well-organized documentation  
+- Reusable logic and JavaScript modules  
 - Node.js compatible  
 
----
-
 ## 🧰 Technologies Used
-| Technology | Description |
-|-----------|-------------|
-| JavaScript (ES6+) | Core programming language |
-| Node.js | To execute JavaScript files (optional) |
-| Git & GitHub | Version control and hosting |
-| HTML/CSS (optional) | If UI components exist |
-
----
+JavaScript (ES6+), Node.js, HTML/CSS, Git & GitHub
 
 ## 🧑‍💻 How to Use This Repository
+1. Clone: git clone https://github.com/your-username/your-repo-name.git  
+2. Navigate: cd your-repo-name  
+3. Run JS: node filename.js  
 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/your-repo-name.git
+## 🤝 Contribution
+Fork → New Branch → Commit → Pull Request  
 
-🤝 Contribution
+## 🧑‍🏫 Mentor / Host
+Prasad Kadam — JavaScript Mentor | Batch A22
 
-Contributions are welcome!
-
-Fork the repo
-
-Create a new branch
-
-Commit your changes
-
-Submit a pull request
-
-🧑‍🏫 Mentor / Host
-
-Prasad Kadam
-JavaScript Mentor | Batch A22
-
-⭐ Support
-
-If this project helped you, please consider giving a ⭐ star to the repository.
+## ⭐ Support
+Please give a ⭐ star if this project helped you.
